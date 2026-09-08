@@ -1,6 +1,24 @@
----
-owner-repo: sunaku/dasht
-desc:   💁 Search API docs offline, in terminal or browser 
----
-
 # dasht
+
+💁 Search API docs offline, in terminal or browser
+
+- **Upstream**: <https://github.com/sunaku/dasht>
+- **Homepage**: <https://sunaku.github.io/dasht/man>
+- **Latest release**: `v2.4.0` (2020-05-16)
+- **Last commit**: 2021-10-30
+- **License**: NOASSERTION
+- **Stars**: 866 · **Forks**: 32 · **Open issues**: 50 · **Contributors**: 7
+
+## Installation
+
+```sh
+x install dasht
+```
+
+See <https://x-cmd.com/install/dasht> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:41:01Z._
